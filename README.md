@@ -1,2 +1,2 @@
-# SteavenCalculator
- Simple Python Calculator
+# SteavenPython
+ Python Made Easier
