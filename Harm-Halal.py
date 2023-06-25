@@ -1,5 +1,5 @@
 print('Hello, world!')
-print('Aare you  Haram!, or Halal! ?')
+print('Are you  Haram!, or Halal! ?')
 haramhalal = input("Asnser: ")
 #print("Hey, it's", haramhalal, "Haream")
 if haramhalal == 'Haram':
