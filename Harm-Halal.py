@@ -1,2 +1,2 @@
-h = input("H or H? ").lower()
-print("H" + ("" if h == "haram" else "alal") + ", Frinda!") if h == "haram" or h == "halal" else print("Choose H or H.")
+c='H'+'alal'if(input('H or H? ').lower()=='halal')else'H'if input().lower()=='haram'else'Choose H or H.'
+print(c+', Frinda!')
