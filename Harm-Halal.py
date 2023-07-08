@@ -5,4 +5,4 @@ if haramhalal == 'haram':
 elif haramhalal == 'halal':
     print("Halal, Frinda!")
 else:
-    print("Choose Haram or Halal.")
+    print("Please choose Haram or Halal.")
